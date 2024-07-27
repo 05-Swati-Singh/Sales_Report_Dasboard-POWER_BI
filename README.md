@@ -27,7 +27,7 @@ This project involves a comprehensive sales analysis using Power BI. The analysi
 ## Getting Started
 To explore the analysis:
 1. Clone this repository.
-2. Open the Power BI report files in the `reports` directory using Power BI Desktop.
+2. Open the Power BI report files in the `dashboard` directory using Power BI Desktop.
 
 ## Dependencies
 - Microsoft Power BI Desktop
